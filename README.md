@@ -1,4 +1,4 @@
-# Bolha no mercado de petróleo (Crude Oil 2000 - 2021)
+# Bolhas no mercado de petróleo (Crude Oil 2000 - 2021)
 
 Projeto desenvolvido na disciplina 'Derivatives', ministrada pelo prof. Dr Cézar Cruz no 1° semestre de 2021 no curso de Economia (UFSCar Sorocaba).
 
