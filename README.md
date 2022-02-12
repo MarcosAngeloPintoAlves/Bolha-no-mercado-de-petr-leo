@@ -13,3 +13,5 @@ Após a detecção dos períodos de existência (ou não) da bolha, comparamos c
 O S2U consiste numa regressão linear entre a razão de estoque e uso e o preço do ativo a mercado.
 
 Esse modelo é comumente utilizado na preficiação de commodities agrícolas, principalmente para o hedge feito com contratos futuros.
+
+Após a identificação dos períodos de bolha no ativo, que podem ser verificados no arquivo date_bubbles.csv, criamos estratégias de trading aplicando o conceito de **mean reversion**.
